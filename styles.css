@@ -1,0 +1,96 @@
+.container{
+    margin-top: 80px;
+}
+.carousel-inner img {
+    width: 100%;
+    max-height: 750px;
+}
+.carousel-inner{
+    height: 750px;
+   }
+
+   .card-body {
+    border: 3px solid rgb(204, 204, 204);
+    background-color: #acacac;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .boton-carro{
+    
+        background-image:url("img/iconmonstr-shopping-cart-3-32.png");
+        background-color: transparent;
+        background-repeat:no-repeat;
+        height:32px;
+        width:32px;
+        background-size: 100%;
+        background-position:100%;
+        }
+    .carro{
+        margin-right: 5mm;
+    }  
+    body{
+        background-image: url(img/5568-madera.jpg);
+        
+        
+       
+    }
+   .footer1{
+        background-color: rgba(190, 146, 104,0.95);
+       
+        
+        width:100%;
+        margin-bottom: 0%;
+        
+        margin-bottom: -100px;
+        
+        }
+    .pepe5{ padding-bottom: 0cm;
+        
+        margin: 0;
+        
+        
+    }
+   .map{
+    margin-top: 1cm;
+       width: 400px;
+       height:200px ;
+      justify-items: right;
+   }
+   .offset-1{
+       margin-top: 1cm;
+   }
+    .nosotros{ padding: 1%;
+        border-radius: 25px;
+        font-size: x-large; background-color: rgba(238, 172, 96, 0.7); 
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .tit{
+        text-align: center;
+       font-size: 30px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .about{ 
+        margin:auto;
+        text-align: center;
+    }
+    .nos{
+        
+        padding: 10%;
+    }
+    .navbar-dark{
+        background-color: rgba(190, 146, 104,0.95);
+    }
+    .carrito{
+        padding: 5%;
+        width: 80%;
+        height:600px;
+        
+        margin: 5%;
+       
+
+    }
+    td, tr{
+        background-color: rgba(190, 146, 104,0.95);
+    }
+  
