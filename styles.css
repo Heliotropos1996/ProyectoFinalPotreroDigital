@@ -93,4 +93,7 @@
     td, tr{
         background-color: rgba(190, 146, 104,0.95);
     }
-  
+  .btn{
+
+    padding: 10 px !important;
+  }
