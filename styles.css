@@ -6,7 +6,7 @@
     max-height: 750px;
 }
 .carousel-inner{
-    height: 750px;
+    height: 100%;
    }
 
    .card-body {
